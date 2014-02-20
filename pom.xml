@@ -7,6 +7,7 @@
 		<version>32</version>
 	</parent>
 
+    <groupId>pl.wavesoftware</groupId>
 	<artifactId>templating-maven-plugin</artifactId>
 	<packaging>maven-plugin</packaging>
 	<version>1.0.5-SNAPSHOT</version>
@@ -26,6 +27,13 @@
 	<developers>
 		<developer>
 			<name>Baptiste Mathus</name>
+			<timezone>+1</timezone>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<name>Krzysztof Suszyński</name>
 			<timezone>+1</timezone>
 			<roles>
 				<role>Developer</role>
